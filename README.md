@@ -11,7 +11,6 @@
 [利用JavaScript数据绑定实现一个简单的MVVM库](https://segmentfault.com/a/1190000004847657)</br>
 [vue-cli#2.0webpack配置分析](https://gold.xitu.io/post/584e48b2ac502e006c74a120)</br>
 [vue 2 + vue-router 2 实现SPA](http://www.tuicool.com/articles/bu6FJ3e)</br>
-[一个vue实现的轮子](https://zhuanlan.zhihu.com/p/24435564)</br>
 ###项目结构说明：
 ![img](https://github.com/wakingup/Weathervue/blob/gh-pages/gif/info.png)</br>
 ###演示：
